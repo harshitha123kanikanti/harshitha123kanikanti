@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 My name is Harshitha
 - 🌱 I’m currently learning React js
-- 👯 I’m looking for internship oppurtunities
+- 👯 Looking for internship oppurtunities
 - 🤔 Final year computer science graduate
 - 💬 Can contact me on phone: 6303886992, mail: kanikantiharshitha@gmail.com
 - 📫 Familiar with html,css,js,php,java,Mysql
