@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 My name is Harshitha
-//- 🌱 I’m
 - 👯 Looking for internship oppurtunities
 - 🤔 Final year computer science graduate
 - 😄 Happy person
